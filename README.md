@@ -4,7 +4,6 @@
 ## 入力と出力
 入力：市区町村  
 出力：大まかな位置のグラフ
-![map2](https://github.com/yamaarashi-owo/Prog2kakushin/assets/153545926/c860e969-bf0e-4435-b8e8-4386872fa6d6)
 
 # work2　偏差値を求める
 ## 概要
@@ -27,3 +26,5 @@ _出力：QRコード(.png)
 QRコードから文字のデータ  
 _入力：QRコード(.png)  
 _出力：22文字の数字またはアルファベット  
+(例)
+![QRex](https://github.com/yamaarashi-owo/Prog2kakushin/assets/153545926/48dbddc5-acf2-42e9-a337-c44e88823d68)
